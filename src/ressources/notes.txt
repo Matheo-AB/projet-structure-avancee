@@ -1,0 +1,2 @@
+La Loi de Moore fût fondée en 1965 par Gordon E.Moore.
+La quantité de transistors sur une puce de processeur est vouée à doubler sur une période de deux ans.
