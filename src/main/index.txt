@@ -1,3 +1,9 @@
+Partie 1 (Mathéo ALBOUY-BENALIA) : Je suis Mathéo ALBOUY-BENALIA, je suis  acuellement étudiant au sein de l'école 3IL 
+et je suis toujours en recherche d'une alternance afin de poursuivre mon cursus ingénieur. Ce projet Git est destiné à
+l'apprentissage et à l'utilisation des bonnes méthodes afin d'organiser et de structurer un projet convenablement.
+l'apprentissage et à l'utilisation des bonnes méthodes afin d'organiser et de structurer un projet convenablement.
+
+Partie 2 (Arthur Gaussot) : Je suis Arthur Gaussot j'ai 24 ans et  je suis en alternance dans l'entreprise Rougeline à Marmande dans laquelle j'effectue de l'administration de reseaux.
 Bonjour, je m'appelle Ribaute Robin j'ai fait un BTS CIEL à charles carnus.
 Je fait partie maintenant de l'école 3il sur le site de Rodez.
 Mon entreprise pour les 3 années d'alternance est la Bosch

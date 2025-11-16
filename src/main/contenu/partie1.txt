@@ -1,1 +1,5 @@
-De nos jours, les ordinateurs sont de plus en plus puissants. Au sein de chaque ordinateur se trouve un processeur, lui-même composé de nombreux transistors. Une loi célèbre mais souvent oubliée, la « loi de Moore », formulée en 1965 par Gordon E. Moore, stipule que le nombre de transistors sur une puce de processeur est voué à doubler tous les deux ans. Cependant, je pense que cette loi sera un jour dépassée, en raison d’une évolution technologique toujours plus rapide.
+De nos jours, les ordinateurs sont de plus en plus puissants.
+Au sein de chaque ordinateur se trouve un processeur, lui-même composé de nombreux transistors.
+Une loi célèbre mais souvent oubliée, la « loi de Moore », formulée en 1965 par Gordon E. Moore,
+stipule que le nombre de transistors sur une puce de processeur est voué à doubler tous les deux ans.
+Cependant, je pense que cette loi sera un jour dépassée, en raison d’une évolution technologique toujours plus rapide.
