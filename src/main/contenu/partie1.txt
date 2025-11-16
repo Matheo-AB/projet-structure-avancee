@@ -1,0 +1,2 @@
+Ce fichier est destiné à la descritpion générale du projet.
+Elle doit être complète, simple et facile à comprendre afin que les différents utilisateurs puissent comprendre le projet en la lisant.
